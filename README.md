@@ -37,3 +37,7 @@ The executable will be created in the `dist` folder.
 5. Use the checkbox to toggle click-through mode
 6. Drag GIFs with left mouse button to reposition
 7. Press Ctrl+Q to close all GIFs at once
+
+## TODO:
+
+1. Fix scaling
